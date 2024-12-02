@@ -1,6 +1,6 @@
 Expense Tracker Application
 
-This project is a React-based Expense Tracker designed to help users manage their expenses efficiently. It provides an intuitive interface and powerful features to track, analyze, and organize expenses seamlessly.
+This project is a React-based Expense Tracker designed to help users manage their expenses efficiently. It provides an interactive interface and powerful features to track, analyze, and organize expenses seamlessly.
 
 Features:
 
